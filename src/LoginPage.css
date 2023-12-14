@@ -1,0 +1,122 @@
+/* LoginPage.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.custom-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin-right: 500px; 
+  width: 1100px;
+  margin-bottom: 100px;
+}
+
+.custom-card {
+  width: 500px;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: auto; 
+}
+
+.custom-welcome {
+  text-align: center;
+}
+
+.custom-display {
+  font-size: 1.8rem;
+  color: #007bff;
+}
+
+.custom-heading {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: black;
+}
+
+.custom-form-group {
+  margin-bottom: 20px;
+}
+
+.custom-label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 1rem;
+  color: black;
+}
+
+mark {
+  background-color: rgb(63, 202, 44)yellow;
+  color: black;
+}
+
+.custom-textbox {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+b{
+  color:black;
+}
+
+.custom-button {
+  width: 100%;
+  padding: 12px;
+  font-size: 1.2rem;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: black;
+  cursor: pointer;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+.custom-button:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.custom-forgot-password {
+  margin-top: 10px;
+  text-align: right;
+}
+
+.custom-social-login {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.social-icon {
+  font-size: 2rem;
+  margin: 0 10px;
+  color: #007bff;
+}
+
+.custom-signup-link {
+  margin-top: 20px;
+  text-align: center;
+  color: black;
+}
+
+.custom-signup-link a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.custom-signup-link a:hover {
+  text-decoration: underline;
+}
+video {
+  height: 100vh;
+  width: 10px;
+}

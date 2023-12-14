@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Rubik+Distressed&family=Source+Sans+Pro:wght@600&display=swap');
+body{
+
+     background-color: #b42e2e;  
+     font-family: 'Rubik Dirt', cursive;
+     font-family: 'Rubik Distressed', cursive;
+     font-family: 'Source Sans Pro', sans-serif;
+     
+}
+.name-label{
+     background-color: #b42e2e;
+     color: green;
+    }
+.name-container{
+     background-color: #b42e2e;
+}
